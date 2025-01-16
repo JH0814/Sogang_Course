@@ -1,0 +1,8 @@
+n = input('정수 숫자 3개를 입력 : ')
+a, b, c = n.split()
+a = int(a)
+b = int(b)
+c = int(c)
+print('입력 받은 값 :', a, b, c)
+print('총합 :', a+b+c)
+print('평균 :', round((a + b + c)/3, 1))
