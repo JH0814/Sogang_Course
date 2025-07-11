@@ -1,0 +1,4 @@
+﻿  proj1_20211522.c
+C:\Users\user\Desktop\서강대 과제\1-2\c언어\Project1\Project1\proj1_20211522.c(10,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\서강대 과제\1-2\c언어\Project1\Project1\proj1_20211522.c(35,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> C:\Users\user\Desktop\서강대 과제\1-2\c언어\Project1\Debug\Project1.exe

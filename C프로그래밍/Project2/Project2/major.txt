@@ -1,0 +1,10 @@
+computer_science
+mathematics
+mechanical_engineering
+chemical_engineering
+physics
+accounting
+economics
+architecture
+politics
+laws

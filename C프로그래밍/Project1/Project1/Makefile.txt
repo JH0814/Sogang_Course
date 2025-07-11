@@ -1,0 +1,15 @@
+CC = gcc
+CFLAGS = -W -Wall
+TARGET = 20211522.out
+SRCS = 20211522.h proj1_20211522.c
+OBJECTS = proj1_20211522.o
+
+$(TARGET):$(OBJECTS)
+	$(CC) -o $(TARGET) $(OBJECTS) $(CFLAGS)
+
+$(OBJECTS): proj1_20211522.c
+	$(CC) -c proj1_20211522.c $(CFLAGS)
+
+clean:
+	rm -rf *.o *.out
+
